@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download cv here] %http://MariaLeiloglou.github.io/files/HCV_Leiloglou_20_04_2018.pdf%
+[Download cv here](http://MariaLeiloglou.github.io/files/HCV_Leiloglou_20_04_2018.pdf)
 
 {% include base_path %}
 
