@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : “Maria Leiloglou/PhD Candidate”
 title_separator          : "-"
 name                     : &name “Maria Leiloglou”
-description              : &description “I am a PhD student in the department of Surgery and Cancer & the Hamlyn Centre for Robotic Surgery at Imperial College London.I hold a BSc in Physics, Nuclear & Elementary Particle Physics from the Aristotle University of Thessaloniki and an MSc in Biomedical Engineering, Medical Physics and Imaging from Imperial College London.“
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ““
+url                      : https://marialeiloglou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Maria Leiloglou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a PhD student in the department of Surgery and Cancer & the Hamlyn Centre for Robotic Surgery at Imperial College London.I hold a BSc in Physics, Nuclear & Elementary Particle Physics from the Aristotle University of Thessaloniki and an MSc in Biomedical Engineering, Medical Physics and Imaging from Imperial College London."
+  location         : “London”
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
