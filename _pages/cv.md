@@ -2,11 +2,11 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-Papergirl:’https://marialeiloglou.github.io/files/CV.pdf’
 author_profile: true
 redirect_from:
   - /resume
 ---
+[Download cv here](https://marialeiloglou.github.io/files/CV.pdf)
 
 {% include base_path %}
 
