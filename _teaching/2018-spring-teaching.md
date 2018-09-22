@@ -1,5 +1,5 @@
 ---
-title: “Graduate Teaching Assistant”
+title: “Graduate Teaching Assistant, Advanced Medical Imaging”
 collection: teaching
 type: “classwork and practical demonstration“
 permalink: /teaching/2018-spring-teaching

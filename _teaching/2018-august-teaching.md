@@ -1,5 +1,5 @@
 ---
-title: “Lecturing”
+title: “Lecturing,Revolutions in Biomedicine Summer School ”
 collection: teaching
 type: “Talk:Case Study/Fluorescence Endoscopy“
 permalink: /teaching/2018-august-teaching

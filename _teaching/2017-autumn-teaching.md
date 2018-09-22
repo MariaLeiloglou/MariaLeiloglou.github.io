@@ -1,5 +1,5 @@
 ---
-title: “Graduate Teaching Assistant”
+title: “Graduate Teaching Assistant,Medical Imaging ”
 collection: teaching
 type: “classwork”
 permalink: /teaching/2017-autumn-teaching
