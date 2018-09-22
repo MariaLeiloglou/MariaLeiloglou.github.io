@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: “Graduate Teaching Assistant”
 collection: teaching
-type: "Undergraduate course"
+type: “classwork & practical demonstration”
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: “Imperial College London, Department of Bioengineering”
+date: Spring term 2017/2018
+location: “London, United Kingdom“
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Course: MSc in Biomedical Engineering/ Advanced Biomedical Imaging

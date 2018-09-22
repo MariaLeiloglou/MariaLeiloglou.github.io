@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: “Graduate Teaching Assistant”
 collection: teaching
-type: "Workshop"
+type: “classwork”
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: “Imperial College London, the Hamlyn Centre for Robotic Surgery“
+date: Autumn term 2017/2018
+location: “Imperial College London, United Kingdom“
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Course: MRes in Medical Robotics and Image Guided Intervention/ Medical Imaging
