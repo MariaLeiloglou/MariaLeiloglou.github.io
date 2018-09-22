@@ -2,7 +2,7 @@
 title: “Graduate Teaching Assistant”
 collection: teaching
 type: “classwork and practical demonstration“
-permalink: /teaching/2016-spring-teaching
+permalink: /teaching/2018-spring-teaching
 venue: “Imperial College London, Department of Bioengineering”
 date: 2018-01-15 
 location: “London, United Kingdom"
