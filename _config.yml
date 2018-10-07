@@ -83,9 +83,9 @@ author:
   avatar           : "image1.jpg"
   bio              : "PhD student/ Department of Surgery and Cancer & the Hamlyn Centre for Robotic Surgery/Imperial College London."
   location         : London
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  employer         : [Imperial College London](https://www.imperial.ac.uk/hamlyn-centre/about-us/)
+  googlescholar    : 
+  email            : “mleiloglou@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : “MariaLeiloglou”
   google_plus      :
   keybase          :
   instagram        :
@@ -102,10 +102,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
