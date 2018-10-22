@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: This GitHub Page is my personal academic website
+title: "Welcome to my GitHub page.”
 excerpt: "About me"
 author_profile: true
 redirect_from: 
