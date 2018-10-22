@@ -4,7 +4,7 @@ collection: teaching
 type: “classwork”
 permalink: /teaching/2018-autumn-teaching
 venue: “department of Bioengineering,MEng,MSc Biomedical Engineering”
-date: 2018-10-15
+date: 2018-09-15
 location: “London, the United Kingdom"
 ---
 
