@@ -1,5 +1,5 @@
 --
-title: Teaching Assistant, Biomedical Imaging
+title: Graduate Teaching Assistant, Biomedical Imaging
 collection: teaching
 type: classwork
 permalink: /teaching/2018-autumn-teaching
