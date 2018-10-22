@@ -1,9 +1,9 @@
----
-title: "Teaching Assistant (Biomedical Imaging)”
+--
+title: Teaching Assistant, Biomedical Imaging
 collection: teaching
-type: “classwork”
+type: classwork
 permalink: /teaching/2018-autumn-teaching
-venue: “department of Bioengineering,MEng,MSc Biomedical Engineering”
+venue: Imperial College London, department of Bioengineering
 date: 2018-09-15
 location: “London, the United Kingdom"
 ---
