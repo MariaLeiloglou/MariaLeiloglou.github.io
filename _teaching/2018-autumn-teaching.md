@@ -1,12 +1,12 @@
 ---
-title: Graduate Teaching Assistant, Biomedical Imaging
+title: "Teaching Assistant (Biomedical Imaging)”
 collection: teaching
-type: Classwork
+type: “classwork”
 permalink: /teaching/2018-autumn-teaching
-venue: Imperial College London, department of Bioengineering
-date: 2018-10-15 
-location: “London, United Kingdom"
+venue: “department of Bioengineering,MEng,MSc Biomedical Engineering”
+date: 2018-10-15
+location: “London, the United Kingdom"
 ---
 
-MSc in Biomedical Engineering, Biomedical Imaging 
-
+Duties included:
+Classwork for the module of Biomedical Imaging, MSc, MEng Bioengineering
