@@ -2,7 +2,7 @@
 title: Graduate Teaching Assistant, Biomedical Imaging
 collection: teaching
 type: classwork
-permalink: /teaching/2018-autumn-teaching
+permalink: /teaching/2018-BiomedicalImaging
 venue: Imperial College London, department of Bioengineering
 date: 2018-09-15
 location: “London,United Kingdom"
