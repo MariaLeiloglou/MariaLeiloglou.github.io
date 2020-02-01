@@ -4,4 +4,6 @@ excerpt: “The two camera head for fluorescence imaging performed in Breast Con
 collection: portfolio
 ---
 
-[More information here](https://wwwf.imperial.ac.uk/blog/ighi/2019/12/18/5-innovative-pieces-of-healthcare-tech-we-learned-about-this-christmas/)
+[More information for this project here](https://wwwf.imperial.ac.uk/blog/ighi/2019/12/18/5-innovative-pieces-of-healthcare-tech-we-learned-about-this-christmas/)
+
+[More Information about the Patient and Public Involvement work here] (https://wwwf.imperial.ac.uk/blog/ighi/2019/12/18/5-innovative-pieces-of-healthcare-tech-we-learned-about-this-christmas/)
