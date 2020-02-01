@@ -4,4 +4,4 @@ excerpt: “The two camera head for fluorescence imaging performed in Breast Con
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[More information here](https://wwwf.imperial.ac.uk/blog/ighi/2019/12/18/5-innovative-pieces-of-healthcare-tech-we-learned-about-this-christmas/)
