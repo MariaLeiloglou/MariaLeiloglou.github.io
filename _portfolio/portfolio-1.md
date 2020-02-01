@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: “GLOW dual camera head system”
+excerpt: “The two camera head for fluorescence imaging performed in Breast Conserving Surgery for tumour resection guidance<br/><img src='/images/IMG_1913.JPG'>"
 collection: portfolio
 ---
 
