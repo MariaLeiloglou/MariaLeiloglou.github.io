@@ -1,7 +1,7 @@
 ---
 title: “Snapshot Hyperspectral System for Breast Conserving Surgery Guidance”
 collection: publications
-permalink: /publication/2020-snapshot_hyperspectral_first
+permalink: /publication/2020-SNAPSHOT
 excerpt: ''
 date: 2020-04-23
 venue: ‘Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN)'
