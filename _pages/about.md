@@ -18,3 +18,5 @@ I am a PhD student in the department of Surgery and Cancer & the Hamlyn Centre f
 [How we implement Patient and Public Involvement in research toolkit CRUK info](https://www.cancerresearchuk.org/sites/default/files/clinical_case_study_03_0.pdf)
 
 [Institute of Global Health Innovation/women](https://wwwf.imperial.ac.uk/blog/ighi/2020/03/02/celebrating-ighis-women/)
+
+“Institute of Global Health Innovation<br/><img src='/images/IGHI-narrative_1200.gif'>"
